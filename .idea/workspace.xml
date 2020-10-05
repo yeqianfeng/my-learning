@@ -19,6 +19,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="yeqianfeng &lt;2690380103@qq.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iSHdh2Is5D1wsby35hAPJLSo7h" />
@@ -77,10 +82,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="626" y="119" key="CommitChangelistDialog2" timestamp="1601904103009">
+    <state x="626" y="119" key="CommitChangelistDialog2" timestamp="1601904266011">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="626" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601904103009" />
+    <state x="626" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601904266011" />
     <state width="1876" height="348" key="GridCell.Tab.0.bottom" timestamp="1601894893967">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -117,6 +122,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="527" y="167" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601904157010" />
+    <state x="618" y="258" key="Vcs.Push.Dialog.v2" timestamp="1601904298082">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="618" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601904298082" />
     <state x="611" y="155" key="new project wizard" timestamp="1601894172677">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
