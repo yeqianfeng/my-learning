@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2660e234-65b9-429d-b31a-fef9f4c68608" name="Default Changelist" comment="" />
+    <list default="true" id="2660e234-65b9-429d-b31a-fef9f4c68608" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/qfye/java/week1/ArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qfye/java/week1/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/qfye/java/week1/Factorial.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iSHdh2Is5D1wsby35hAPJLSo7h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,7 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager">
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -58,7 +68,8 @@
       <option name="presentableId" value="Default" />
       <updated>1601894161120</updated>
       <workItem from="1601894162967" duration="728000" />
-      <workItem from="1601895322731" duration="1251000" />
+      <workItem from="1601895322731" duration="2102000" />
+      <workItem from="1601904017444" duration="140000" />
     </task>
     <servers />
   </component>
@@ -66,6 +77,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="626" y="119" key="CommitChangelistDialog2" timestamp="1601904103009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="626" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601904103009" />
     <state width="1876" height="348" key="GridCell.Tab.0.bottom" timestamp="1601894893967">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -98,20 +113,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1876" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601894893967" />
+    <state x="527" y="167" key="SettingsEditor" timestamp="1601904157010">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="527" y="167" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601904157010" />
     <state x="611" y="155" key="new project wizard" timestamp="1601894172677">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="611" y="155" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1601894172677" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/qfye/java/week1/Factorial.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

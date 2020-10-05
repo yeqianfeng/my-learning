@@ -14,6 +14,6 @@ public class Factorial {
         for(int i = 1; i<= n; i++){
             result = result * i;
         }
-System.out.println(n + "的阶乘是：" + result);
+    System.out.println(n + "的阶乘是：" + result);
     }
 }
