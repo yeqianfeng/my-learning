@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2660e234-65b9-429d-b31a-fef9f4c68608" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/qfye/java/week1/ArrayTest.java" afterDir="false" />
+    <list default="true" id="2660e234-65b9-429d-b31a-fef9f4c68608" name="Default Changelist" comment="java-learning">
+      <change afterPath="$PROJECT_DIR$/src/com/qfye/java/week1/Example.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/qfye/java/week1/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/qfye/java/week1/Factorial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,20 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Example">
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qfye.java.week1.Example" />
+      <module name="my-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qfye.java.week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.qfye.java.week1.Factorial" />
       <module name="my-learning" />
@@ -58,6 +70,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example" />
         <item itemvalue="Application.Factorial" />
       </list>
     </recent_temporary>
@@ -74,34 +87,54 @@
       <updated>1601894161120</updated>
       <workItem from="1601894162967" duration="728000" />
       <workItem from="1601895322731" duration="2102000" />
-      <workItem from="1601904017444" duration="140000" />
+      <workItem from="1601904017444" duration="1361000" />
+      <workItem from="1601990052652" duration="440000" />
     </task>
+    <task id="LOCAL-00001" summary="java-learning">
+      <created>1601904267093</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601904267093</updated>
+    </task>
+    <task id="LOCAL-00002" summary="java-learning">
+      <created>1601904357156</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601904357156</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java-learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="java-learning" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="626" y="119" key="CommitChangelistDialog2" timestamp="1601904266011">
+    <state x="626" y="119" key="CommitChangelistDialog2" timestamp="1601904380321">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="626" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601904266011" />
-    <state width="1876" height="348" key="GridCell.Tab.0.bottom" timestamp="1601894893967">
+    <state x="626" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601904380321" />
+    <state width="1876" height="240" key="GridCell.Tab.0.bottom" timestamp="1601990496045">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601894893967" />
-    <state width="1876" height="348" key="GridCell.Tab.0.center" timestamp="1601894893967">
+    <state width="1876" height="240" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601990496045" />
+    <state width="1876" height="240" key="GridCell.Tab.0.center" timestamp="1601990496045">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601894893967" />
-    <state width="1876" height="348" key="GridCell.Tab.0.left" timestamp="1601894893967">
+    <state width="1876" height="240" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601990496045" />
+    <state width="1876" height="240" key="GridCell.Tab.0.left" timestamp="1601990496045">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601894893967" />
-    <state width="1876" height="348" key="GridCell.Tab.0.right" timestamp="1601894893967">
+    <state width="1876" height="240" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601990496045" />
+    <state width="1876" height="240" key="GridCell.Tab.0.right" timestamp="1601990496045">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601894893967" />
+    <state width="1876" height="240" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601990496045" />
     <state width="1876" height="348" key="GridCell.Tab.1.bottom" timestamp="1601894893967">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -118,6 +151,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1876" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601894893967" />
+    <state x="699" y="251" key="RollbackChangesDialog" timestamp="1601905927728">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="699" y="251" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601905927728" />
     <state x="527" y="167" key="SettingsEditor" timestamp="1601904157010">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
