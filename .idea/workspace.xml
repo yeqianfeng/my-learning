@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2660e234-65b9-429d-b31a-fef9f4c68608" name="Default Changelist" comment="java-learning">
-      <change afterPath="$PROJECT_DIR$/src/com/qfye/java/week1/Example2.java" afterDir="false" />
+    <list default="true" id="2660e234-65b9-429d-b31a-fef9f4c68608" name="Default Changelist" comment="10.6">
+      <change afterPath="$PROJECT_DIR$/src/com/qfye/java/week1/Example7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,7 @@
         <option value="yeqianfeng &lt;2690380103@qq.com&gt;" />
       </list>
     </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iSHdh2Is5D1wsby35hAPJLSo7h" />
@@ -37,11 +38,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="xpath.settings" />
   </component>
-  <component name="RunManager" selected="Application.Example2">
+  <component name="RunManager" selected="Application.Example7">
     <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.qfye.java.week1.Example" />
       <module name="my-learning" />
@@ -68,6 +70,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qfye.java.week1.Example3" />
+      <module name="my-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qfye.java.week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qfye.java.week1.Example7" />
+      <module name="my-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qfye.java.week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.qfye.java.week1.Factorial" />
       <module name="my-learning" />
@@ -83,6 +111,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example7" />
+        <item itemvalue="Application.Example3" />
         <item itemvalue="Application.Example2" />
         <item itemvalue="Application.Example" />
         <item itemvalue="Application.Factorial" />
@@ -103,7 +133,9 @@
       <workItem from="1601895322731" duration="2102000" />
       <workItem from="1601904017444" duration="1361000" />
       <workItem from="1601990052652" duration="440000" />
-      <workItem from="1601990817582" duration="971000" />
+      <workItem from="1601990817582" duration="1701000" />
+      <workItem from="1602074147905" duration="760000" />
+      <workItem from="1602144289618" duration="807000" />
     </task>
     <task id="LOCAL-00001" summary="java-learning">
       <created>1601904267093</created>
@@ -119,7 +151,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601904357156</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="10.6">
+      <created>1601991896497</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601991896498</updated>
+    </task>
+    <task id="LOCAL-00004" summary="10.6">
+      <created>1602074750978</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602074750978</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,29 +173,30 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java-learning" />
-    <option name="LAST_COMMIT_MESSAGE" value="java-learning" />
+    <MESSAGE value="10.6" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.6" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="626" y="119" key="CommitChangelistDialog2" timestamp="1601904380321">
+    <state x="626" y="119" key="CommitChangelistDialog2" timestamp="1602145198750">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="626" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601904380321" />
-    <state width="1876" height="240" key="GridCell.Tab.0.bottom" timestamp="1601990496045">
+    <state x="626" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602145198750" />
+    <state width="1876" height="240" key="GridCell.Tab.0.bottom" timestamp="1602074908985">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="240" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601990496045" />
-    <state width="1876" height="240" key="GridCell.Tab.0.center" timestamp="1601990496045">
+    <state width="1876" height="240" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602074908985" />
+    <state width="1876" height="240" key="GridCell.Tab.0.center" timestamp="1602074908985">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="240" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601990496045" />
-    <state width="1876" height="240" key="GridCell.Tab.0.left" timestamp="1601990496045">
+    <state width="1876" height="240" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602074908985" />
+    <state width="1876" height="240" key="GridCell.Tab.0.left" timestamp="1602074908985">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="240" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601990496045" />
-    <state width="1876" height="240" key="GridCell.Tab.0.right" timestamp="1601990496045">
+    <state width="1876" height="240" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602074908985" />
+    <state width="1876" height="240" key="GridCell.Tab.0.right" timestamp="1602074908985">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="240" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601990496045" />
+    <state width="1876" height="240" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602074908985" />
     <state width="1876" height="348" key="GridCell.Tab.1.bottom" timestamp="1601894893967">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -170,14 +217,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="699" y="251" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601905927728" />
-    <state x="527" y="167" key="SettingsEditor" timestamp="1601904157010">
+    <state x="527" y="167" key="SettingsEditor" timestamp="1602144866777">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="527" y="167" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601904157010" />
-    <state x="618" y="258" key="Vcs.Push.Dialog.v2" timestamp="1601904298082">
+    <state x="527" y="167" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602144866777" />
+    <state x="618" y="258" key="Vcs.Push.Dialog.v2" timestamp="1602145225049">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="618" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601904298082" />
+    <state x="618" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602145225049" />
     <state x="611" y="155" key="new project wizard" timestamp="1601894172677">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
